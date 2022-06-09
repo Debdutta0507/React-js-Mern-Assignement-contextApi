@@ -1,0 +1,58 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "Issue": "Lappy damaged",
+      "Severity": "less",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "Issue": "phone damage",
+      "Severity": "less",
+      "status": " done"
+    },
+    {
+      "id": 3,
+      "Issue": "BOTTOLE DAMAGED",
+      "Severity": "HIGH",
+      "status": "not done"
+    },
+    {
+      "id": 4,
+      "Issue": "My wipro not working",
+      "Severity": "Very high",
+      "status": "not done"
+    },
+    {
+      "Issue": "Laptop started burning",
+      "Severity": "major",
+      "status": "open",
+      "id": 5
+    },
+    {
+      "Issue": "Laptop burning ",
+      "Severity": "major",
+      "status": "open",
+      "id": 6
+    },
+    {
+      "Issue": "raju ",
+      "Severity": "major",
+      "status": "open",
+      "id": 7
+    },
+    {
+      "Issue": "Laptop is burning dowm",
+      "Severity": "minor",
+      "status": "open",
+      "id": 8
+    },
+    {
+      "Issue": "Ramu is dying",
+      "Severity": "major",
+      "status": "open",
+      "id": 9
+    }
+  ]
+}
